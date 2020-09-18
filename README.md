@@ -1,15 +1,16 @@
-Payment_Integration_Gateway
+# Payment Integration Gateway #
 
 Simple donation website using Instamojo as a payment gateway.
 
-Card credentials for testing:
+### Card credentials for testing: ###
 
-Debit Card number: 4242 4242 4242 4242
+#### Debit Card number: 4242 4242 4242 4242
 
-Expiry: Any valid future date
+#### Expiry: Any valid future date
 
-CVV: Any 3 digit number
+#### CVV: Any 3 digit number
 
-3D-Secure Password: 1221
+#### 3D-Secure Password: 1221
+
 
 API link: https://test.instamojo.com/developers/
