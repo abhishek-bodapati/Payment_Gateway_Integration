@@ -12,5 +12,5 @@ Any 3 digit number
 #### 3D-Secure Password: ####
 1221
 
-### API link:###
+### API link: ###
 https://test.instamojo.com/developers/
