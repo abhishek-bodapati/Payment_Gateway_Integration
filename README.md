@@ -1,4 +1,4 @@
-# Payment Integration Gateway #
+# Payment Gateway Integration#
 
 Simple donation website using Instamojo as a payment gateway.
 
