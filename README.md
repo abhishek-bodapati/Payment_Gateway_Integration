@@ -1,9 +1,9 @@
 # Payment Gateway Integration #
 
-Simple donation website using Instamojo as a payment gateway.
+* Simple donation website using Instamojo as a payment gateway.
 
 ### Card credentials for testing: ###
-#### Debit Card number: #### 
+* #### Debit Card number: #### 
 4242 4242 4242 4242
 #### Expiry: ####
 Any valid future date
