@@ -2,7 +2,7 @@
 
 * Simple donation website using Instamojo as a payment gateway.
 
-[https://abhishek-bodapati.github.io/Payment_Integration_Gateway/](url)
+https://abhishek-bodapati.github.io/Payment_Integration_Gateway/
 
 ### Card credentials for testing: ###
 * #### Debit Card number: #### 
